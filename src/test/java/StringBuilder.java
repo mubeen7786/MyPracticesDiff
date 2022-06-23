@@ -16,7 +16,7 @@ class StringBuilder1 {
         System.out.println("StringBuilder Replace() method");
         StringBuilder sb3=new StringBuilder("ABCDEFGHIJKLMNOP");
         sb3.replace(2,2,"ZZZ"); //it will replace the value with the selected indexes
-        System.out.println(sb3);//prints HJavalo
+        System.out.println(sb3);//prints Java
 
 
 
