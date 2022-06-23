@@ -10,7 +10,7 @@ class StringBuilder1 {
         System.out.println("StringBuilder insert() method");
         StringBuilder sb1 = new StringBuilder("HelloThisisMubbeen ");
         sb1.insert(5, "Java");//now original string is changed       it will insert into the mid of the string
-        System.out.println(sb1);//prints HJavaello
+        System.out.println(sb1);//prints Java
 
 
         System.out.println("StringBuilder Replace() method");
