@@ -12,6 +12,8 @@ public class TestTerterPaintery {
 //        sb4.delete(5,6); //it will delete the value with the selected indexes
 //        sb4.replace(5,5," "); //it will replace the value with the selected indexes
 
+// Removed Test
+
 //        String test1=test.replace("@","");
 //        String test2=test1.replace("$","");
 //        String test3=test2.replace("_"," ");
